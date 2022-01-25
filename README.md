@@ -5,7 +5,7 @@ O evento denominado Hackathon Jovem Programador é promovido pelo SEPROSC - Sind
 
 # Nosso projeto
 
-### ● Bem Brasil
+### ● Escopo
 
 O protótipo de aplicativo mobile "Bem Brasil" foi o produto final que nossa equipe apresentou para solucionar os problemas de logístida e auditoria no processo de coleta, armazenamento e distribuição de itens para doação.
 
