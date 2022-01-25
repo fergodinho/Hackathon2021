@@ -19,4 +19,4 @@ Veja a apresentação final para a banca do evento: https://youtu.be/bw7KQ1rp6yc
 
 ### Slides
 
-https://github.com/ferrnandaluiza/Hackathon2021/blob/main/Slides.md
+Veja a apresentação de slides https://github.com/ferrnandaluiza/Hackathon2021/blob/main/Slides.md
