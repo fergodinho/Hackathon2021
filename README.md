@@ -15,7 +15,7 @@ Conectar pessoas, aumentar a responsabilidade social e melhorar a qualidade de v
 
 ### Apresentação YouTube
 
-
+Veja a apresentação final para a banca do evento: https://youtu.be/bw7KQ1rp6yc?t=5659
 
 ### Slides
 
