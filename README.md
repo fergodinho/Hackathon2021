@@ -17,7 +17,7 @@ Conectar pessoas, aumentar a responsabilidade social e melhorar a qualidade de v
 
 Veja a apresentação final para a banca do evento:
 
-[![Hackathon Jovem Programador](https://res.cloudinary.com/marcomontalbano/image/upload/v1643119099/video_to_markdown/images/youtube--bw7KQ1rp6yc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/bw7KQ1rp6yc?t=5659 "Hackathon Jovem Programador")
+ [![Hackathon Jovem Programador](https://res.cloudinary.com/marcomontalbano/image/upload/v1643119099/video_to_markdown/images/youtube--bw7KQ1rp6yc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/bw7KQ1rp6yc?t=5659 "Hackathon Jovem Programador")
 
 ### Slides
 
