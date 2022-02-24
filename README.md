@@ -7,7 +7,7 @@ O evento denominado Hackathon Jovem Programador é promovido pelo SEPROSC - Sind
 
 ### ● Escopo
 
-O protótipo de aplicativo mobile "Bem Brasil" foi o produto final que nossa equipe apresentou para solucionar os problemas de logístida e auditoria no processo de coleta, armazenamento e distribuição de itens para doação.
+O protótipo de aplicativo mobile "Bem Brasil", desenvolvido no Figma, foi o produto final que nossa equipe apresentou para solucionar os problemas de logístida e auditoria no processo de coleta, armazenamento e distribuição de itens para doação. O MVP foi desenvolvido a partir de pesquisas de mercado, elaboração de matriz SD, userflow e muito trabalho em equipe.
 
 *Recebemos a premiação de 1º lugar pelo projeto* ☻
 
